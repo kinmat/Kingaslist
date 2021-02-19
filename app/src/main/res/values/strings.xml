@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Kingaslist</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="ok">OK</string>
+    <string name="new_ad_item">New Ad</string>
+    <string name="cancel">Cancel</string>
+    <string name="price">Price</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="details">Details</string>
+    <string name="contact">Contact Information</string>
+    <string name="price_details">Price: %1$s Ft</string>
+    <string name="desc_details">Description: %1$s</string>
+    <string name="contact_details">Contact Information: %1$s</string>
+
+    <string-array name="category_items">
+        <item>Category</item>
+        <item>Food</item>
+        <item>Electronic</item>
+        <item>Book</item>
+        <item>Job</item>
+        <item>Housing</item>
+        <item>Romance</item>
+        <item>Pet</item>
+    </string-array>
+</resources>
