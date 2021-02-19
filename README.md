@@ -18,4 +18,4 @@ csak meg az alkalmazás
 - A felhasználó maga is adhat fel hirdetést, ehhez kell megadni kategóriát, címet, leírást,
 elérhetőséget (egyedi nézet vagy fragment) , ezt az alkalmazás tárolja az
 adatbázisban
-- Az alkalmazáshoz egyedi témát is szeretnék készíteni.
+- Az alkalmazáshoz egyedi témát is készítek
