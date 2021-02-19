@@ -1,5 +1,5 @@
 # Kingaslist
-Specifikáció
+2020/21 Ősz Mobil és webes szoftverek házi feladat - specifikáció
 ## Bemutatás
 Egy apróhirdetés alkalmazás elkészítése mellett döntöttem (pl. a Craigslist), amin a
 felhasználó tud feladni saját apróhirdetést, böngészhet a már feladott hirdetések közt, amik
